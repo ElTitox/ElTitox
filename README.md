@@ -1,6 +1,1 @@
-<a href="https://github.com/Andrew6rant/Andrew6rant">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/dark_mode.svg">
-    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
-  </picture>
-</a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6931e6f7695568122a2842b8?variant=dark" alt="roadmap.sh"/></a>
