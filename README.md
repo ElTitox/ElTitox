@@ -18,7 +18,7 @@ What makes me fall in love with coding is the capability to merge logic, physics
 - 🏅 Robotics Competitor.
 - ⛏️ Everytime looking for something to do.
 - 👨🏻‍💻 Love Game Development, Coding, and Gaming.
-- 🎮 Currently working on ![Within](https://www.roblox.com/games/84216873527703/Within)!
+- 🎮 Currently working on [Within](https://www.roblox.com/games/84216873527703/Within)!
 - 🎧 Passionate about music, photography and multimedia editing.
 - 🍳 In my free time, I enjoy cooking (especially a good plate of lasagna 😋).
 - 📧 Reach me via [joseisaisg3102g@gmail.com].
