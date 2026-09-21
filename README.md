@@ -1,14 +1,12 @@
-<img src="./images/computer.gif" width="100%"/>
+<img src="./images/jeanmarcoshh.gif" width="100%"/>
 
-# 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=luis-gustavoj&style=flat-square&color=blueviolet">
+# 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=ElTitox&style=flat-square&color=red">
 
-I'm a front-end developer!
+I'm Jose, an engineering student and developer!
 
-I've been working and studying technology since 2018, and during this time I worked with diverse types of projects like gaming programming, web programming, app programming
+I've been exploring technology and programming, working on diverse projects ranging from game development and multiplayer mechanics in Roblox Studio to designing real-world engineering solutions like transit tracking systems. 
 
-What made me fall in love with web development and front-end is the capability to create interfaces and in some kind make art, when developing I feel like I'm making art with coding.
-
-If you want you can visit my [portfolio](https://luisoila.dev/)
+What makes me fall in love with coding is the capability to merge logic, physics, and creativity to build interactive experiences. When developing, I feel like I'm making art through scripting.
 
 ## 👨🏻‍💻 About me
 
@@ -16,35 +14,30 @@ If you want you can visit my [portfolio](https://luisoila.dev/)
 
 <img src="./images/message.gif" width="300px" align="right">
 
-- 🌎 I'm from Brazil
-- 👨🏻‍💻 Love programming and gaming
-- 🧠 Love sharing knowledge
-- 🌌 Passionate for astronomy
-- ✈️ Traveling is one of my favorite hobbies
-- 📧 Reach me via luisg.juliao@gmail.com
+- 🌎 I'm from Panamá.
+- 👨🏻‍💻 Love game development, engineering, and problem-solving.
+- 🎮 Currently gearing up for SONDA Mobility Tech Challengue 2026!
+- 🎧 Passionate about music, photography and multimedia editing.
+- 🍳 In my free time, I enjoy cooking (especially a good plate of lasagna 😋).
+- 📧 Reach me via [joseisaisg3102g@gmail.com]
 
 <br>
 <br>
 <br>
-<br>
-<br>
 
-## 💻 Tech stack
+## 💻 Tech Stack & Tools
 
-![HTML Logo](/images/html5.svg)
-![CSS Logo](/images/css3.svg)
-![Javascript Logo](/images/javascript.svg)
-![ReactJS Logo](/images/reactjs.svg)
-![NextJS Logo](/images/nextjs.svg)
-![Typescript Logo](/images/typescript.svg)
-![React-Native Logo](/images/react-native.svg)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
 <p align="center" > 
   <i>Thanks for passing by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
-  <a href="https://www.linkedin.com/in/luis-silva-8b0334185/">
-  <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
-</a>
+  <a href="https://www.linkedin.com/in/eltitox/">
+  <code><img alt="My linkedin" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></code>
+  </a>
 </p>
