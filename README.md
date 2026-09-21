@@ -18,7 +18,7 @@ What makes me fall in love with coding is the capability to merge logic, physics
 - 🏅 Robotics Competitor.
 - ⛏️ Everytime looking for something to do.
 - 👨🏻‍💻 Love Game Development, Coding, and Gaming.
-- 🎮 Currently working on [Within](https://www.roblox.com/games/84216873527703/Within)!
+- 🎮 Currently working on ![Within](https://www.roblox.com/games/84216873527703/Within)!
 - 🎧 Passionate about music, photography and multimedia editing.
 - 🍳 In my free time, I enjoy cooking (especially a good plate of lasagna 😋).
 - 📧 Reach me via [joseisaisg3102g@gmail.com].
@@ -37,7 +37,7 @@ What makes me fall in love with coding is the capability to merge logic, physics
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&v=2)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&color=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
 
