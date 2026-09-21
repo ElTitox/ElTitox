@@ -1,25 +1,26 @@
 <img src="https://el-titox.vercel.app/api/gif" width="100%"/>
 
-# 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=ElTitox&style=flat-square&color=red">
+# 👋 Hey dev! Welcome To My Profile <img align="right" src="https://komarev.com/ghpvc/?username=ElTitox&style=flat-square&color=red">
 
 I'm Jose, an engineering student and developer!
 
-I've been exploring technology and programming, working on diverse projects ranging from game development and multiplayer mechanics in Roblox Studio to designing real-world engineering solutions like transit tracking systems. 
+I love exploring technology, and I've worked on diverse types of projects like robotics competitions, game development, system design, and tracking apps.
 
 What makes me fall in love with coding is the capability to merge logic, physics, and creativity to build interactive experiences. When developing, I feel like I'm making art through scripting.
 
-## 👨🏻‍💻 About me
+## 👨🏻‍💻 About Me
 
 <br>
 
 <img src="./images/message.gif" width="300px" align="right">
 
 - 🌎 I'm from Panamá.
-- 👨🏻‍💻 Love game development, engineering, and problem-solving.
-- 🎮 Currently gearing up for SONDA Mobility Tech Challengue 2026!
+- 👨🏻‍💻 Love Game Development, Coding, and Gaming.
+- 🎮 Currently working on a [Roblox Game](https://www.roblox.com/games/84216873527703/Within)!
 - 🎧 Passionate about music, photography and multimedia editing.
 - 🍳 In my free time, I enjoy cooking (especially a good plate of lasagna 😋).
-- 📧 Reach me via [joseisaisg3102g@gmail.com]
+- ⛏️ Everytime looking for something to do.
+- 📧 Reach me via [joseisaisg3102g@gmail.com](mailto:joseisaisg3102g@gmail.com).
 
 <br>
 <br>
