@@ -16,11 +16,11 @@ What makes me fall in love with coding is the capability to merge logic, physics
 
 - 🌎 I'm from Panamá.
 - 👨🏻‍💻 Love Game Development, Coding, and Gaming.
-- 🎮 Currently working on a [Roblox Game](https://www.roblox.com/games/84216873527703/Within)!
+- 🎮 Currently working on a <a href="https://www.roblox.com/games/84216873527703/Within" target="_blank">Roblox Game</a>!
 - 🎧 Passionate about music, photography and multimedia editing.
 - 🍳 In my free time, I enjoy cooking (especially a good plate of lasagna 😋).
 - ⛏️ Everytime looking for something to do.
-- 📧 Reach me via [joseisaisg3102g@gmail.com](mailto:joseisaisg3102g@gmail.com).
+- 📧 Reach me via <a href="mailto:joseisaisg3102g@gmail.com" target="_blank">joseisaisg3102g@gmail.com</a>
 
 <br>
 <br>
