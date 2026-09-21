@@ -2,8 +2,12 @@ export default async function handler(req, res) {
   // 1. Nombres exactos de los GIFs que tienes en tu carpeta "images"
   const gifs = [
     "computer.gif",
-    "message.gif",
-    "tu_tercer_gif.gif" // Agrega todos los que quieras aquí
+    "mc1.gif",
+    "mc2.gif",
+    "mc3.gif",
+    "mc4.gif",
+    "mc5.gif",
+    "bg1.gif"// Agrega todos los que quieras aquí
   ];
 
   // 2. Elegir uno al azar
@@ -11,7 +15,7 @@ export default async function handler(req, res) {
 
   // 3. Ruta "raw" (cruda) a tus imágenes en GitHub
   // Nota: Si tu rama principal se llama "master" en vez de "main", cámbialo abajo.
-  const githubUrl = `https://raw.githubusercontent.com/ElTitox/ElTitox/main/images/${gifElegido}`;
+  const githubUrl = `https://raw.githubusercontent.com/ElTitox/ElTitox/main/images/gifs/${gifElegido}`;
 
   try {
     // 4. Descargar la imagen de GitHub
