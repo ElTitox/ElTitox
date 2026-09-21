@@ -42,6 +42,6 @@ What makes me fall in love with coding is the capability to merge logic, physics
   <i>Thanks for passing by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
   <a href="https://www.linkedin.com/in/eltitox/">
-  <code><img alt="My linkedin" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></code>
+  <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
   </a>
 </p>
