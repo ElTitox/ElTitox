@@ -15,7 +15,7 @@ export default async function handler(req, res) {
 
   // 3. Ruta "raw" (cruda) a tus imágenes en GitHub
   // Nota: Si tu rama principal se llama "master" en vez de "main", cámbialo abajo.
-  const githubUrl = `https://raw.githubusercontent.com/ElTitox/ElTitox/main/images/gifs/${gifElegido}`;
+  const githubUrl = `https://raw.githubusercontent.com/ElTitox/ElTitox/main/images/${gifElegido}`;
 
   try {
     // 4. Descargar la imagen de GitHub
