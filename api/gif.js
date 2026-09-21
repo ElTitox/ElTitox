@@ -18,7 +18,7 @@ export default async function handler(req, res) {
   ];
 
     const gifSelected = gifs[Math.floor(Math.random() * gifs.length)];
-    const githubUrl = `https://raw.githubusercontent.com/ElTitox/ElTitox/main/images/${gifSelected}`;
+    const githubUrl = `https://raw.githubusercontent.com/ElTitox/ElTitox/main/images/gifs/${gifSelected}`;
 
     try {
         const response = await fetch(githubUrl);
