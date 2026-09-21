@@ -17,25 +17,19 @@ export default async function handler(req, res) {
     "citynight.gif"
   ];
 
-  const gifSelected = gifs[Math.floor(Math.random() * gifs.length)];
-  const githubUrl = `https://raw.githubusercontent.com/ElTitox/ElTitox/main/images/gifs/${gifSelected}`;
+    const gifSelected = gifs[Math.floor(Math.random() * gifs.length)];
+    const githubUrl = `https://raw.githubusercontent.com/ElTitox/ElTitox/main/images/${gifSelected}`;
 
-  try {
-    const response = await fetch(githubUrl);
-    
-    if (!response.ok) throw new Error("Fallo al descargar de GitHub");
-    
-    const arrayBuffer = await response.arrayBuffer();
-    const buffer = Buffer.from(arrayBuffer);
+    try {
+        const response = await fetch(githubUrl);
+        const arrayBuffer = await response.arrayBuffer();
+        const buffer = Buffer.from(arrayBuffer);
 
-    res.setHeader('Content-Type', 'image/gif');
-    res.setHeader('Cache-Control', 'max-age=0, s-maxage=0, no-store, no-cache, must-revalidate, proxy-revalidate');
-    res.setHeader('Pragma', 'no-cache');
-    res.setHeader('Expires', '0');
-    res.setHeader('Surrogate-Control', 'no-store');
-
-    res.status(200).send(buffer);
-  } catch (error) {
-    res.status(500).send("Error al cargar el GIF");
-  }
+        res.setHeader('Content-Type', 'image/gif');
+        res.setHeader('Cache-Control', 'no-store, no-cache, must-revalidate, max-age=0');
+        res.setHeader('Pragma', 'no-cache');
+        res.send(buffer);
+    } catch (error) {
+        res.status(500).send("Error al cargar el GIF");
+    }
 }
