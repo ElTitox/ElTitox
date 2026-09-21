@@ -1,5 +1,5 @@
 export default function handler(req, res) {
-  // 1. Nombres exactos de los GIFs que tienes en tu carpeta "images/gifs"
+  // 1. Place the names of the GIFs in the "images/gifs" folder
   const gifs = [
     "mc1.gif",
     "mc2.gif",
