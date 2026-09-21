@@ -15,12 +15,13 @@ What makes me fall in love with coding is the capability to merge logic, physics
 <img src="./images/message.gif" width="300px" align="right">
 
 - 🌎 I'm from Panamá.
+- 🏅 Robotics Competitor.
+- ⛏️ Everytime looking for something to do.
 - 👨🏻‍💻 Love Game Development, Coding, and Gaming.
-- 🎮 Currently working on a <a href="https://www.roblox.com/games/84216873527703/Within" target="_blank">Roblox Game</a>!
+- 🎮 Currently working on [Within](https://www.roblox.com/games/84216873527703/Within)!
 - 🎧 Passionate about music, photography and multimedia editing.
 - 🍳 In my free time, I enjoy cooking (especially a good plate of lasagna 😋).
-- ⛏️ Everytime looking for something to do.
-- 📧 Reach me via <a href="mailto:joseisaisg3102g@gmail.com" target="_blank">joseisaisg3102g@gmail.com</a>
+- 📧 Reach me via [joseisaisg3102g@gmail.com].
 
 <br>
 <br>
@@ -31,10 +32,15 @@ What makes me fall in love with coding is the capability to merge logic, physics
 
 ## 💻 Tech Stack & Tools
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-316192?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
